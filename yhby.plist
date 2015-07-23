@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.chutong.ChinaDoctor</string>
+				<string>cn.chutong.ChinaDoctorcom.ios8fix</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
